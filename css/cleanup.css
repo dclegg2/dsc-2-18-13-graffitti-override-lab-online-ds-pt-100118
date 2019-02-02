@@ -16,7 +16,11 @@
 }
 
 #div #wall.parent #tag5.slick {
-  display.none;
+  display:none;
 }
 
-#body #div #wall.parent #tag6
+#body #div #wall.parent #tag6 {
+  display:none;
+}
+
+
